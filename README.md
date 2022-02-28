@@ -10,7 +10,7 @@ Holding a Genesis Loot bag will entitle the owner to benefits and rewards, inclu
 
 
 🔮 ["What Can I Do With a Genesis Adventurer?"](https://portal.genesisproject.xyz/)
-<br><br>
+<br>
 🏰 [Website](https://genesisproject.xyz/)
 <br>
 🔦 [Use the Mana Finder to search beyond OpenSea](https://app.genesisproject.xyz/claim)
