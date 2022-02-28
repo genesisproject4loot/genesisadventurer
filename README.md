@@ -8,7 +8,6 @@ Upon collecting a perfect set of 8 Genesis Mana from a single Order, correspondi
 
 Holding a Genesis Loot bag will entitle the owner to benefits and rewards, including unique access to mint projects across the Lootverse, special powers and privileges, the right to claim $ATIME for free, and more.
 
-
 🔮 ["What Can I Do With a Genesis Adventurer?"](https://portal.genesisproject.xyz/)
 <br>
 🏰 [Website](https://genesisproject.xyz/)
