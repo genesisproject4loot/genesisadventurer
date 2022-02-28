@@ -11,3 +11,9 @@ Buy GMs on OpenSea and resurrect a GA yourself.
 Trade GMs with others to resurrect a GA yourself.
 Team up with others to pool your GMs and collectively resurrect one or many GAs and share them fractionally.
 The more Genesis Adventurers you resurrect, the stronger you and/or your team will be in the games ahead.
+
+## Notes for V2 Upgrade
+* `Lost Food` typo has been corrected to `Lost Foot` (whoops)
+* This contract now relies on a rendering contract allowing for further upgradability.
+* TokenURI returns additional metadata viewable on OpenSea. This metadata is derived from the [LootStats contract](https://github.com/genesisproject4loot/loot-stats/tree/fcf8e160876ba9b416a'4096e7f877908ad8e33a3)
+* Players can "Name" their Lost Mana using 100 ATIME
