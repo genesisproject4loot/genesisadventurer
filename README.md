@@ -3,14 +3,20 @@ The Genesis Project is a community of builders, designers, mathematicians and s
 
 [Learn more about the project](genesisproject.xyz)
 
-## Chapter 2: Genesis Adventurer
-For Genesis Mana holders, resurrect a Genesis Adventurers (mint an ERC721 NFT) from a complete set of 8 items from any of the 16 Orders. This means one Weapon, one Head Armor, one Chest Armor, etc all from the same Order (item with suffix “of ____”).
+## Genesis Adventurer
+Upon collecting a perfect set of 8 Genesis Mana from a single Order, corresponding to all 8 item types (i.e. weapon, head armor, chest armor, etc), players can summon the spirit of a Genesis Adventurer and receive its Genesis Loot Bag.
 
-There is no wrong way to complete your collection but here are some suggestions:
-Buy GMs on OpenSea and resurrect a GA yourself.
-Trade GMs with others to resurrect a GA yourself.
-Team up with others to pool your GMs and collectively resurrect one or many GAs and share them fractionally.
-The more Genesis Adventurers you resurrect, the stronger you and/or your team will be in the games ahead.
+Holding a Genesis Loot bag will entitle the owner to benefits and rewards, including unique access to mint projects across the Lootverse, special powers and privileges, the right to claim $ATIME for free, and more.
+
+🔮 ["What Can I Do With a Genesis Adventurer?"](https://portal.genesisproject.xyz/)
+<br>
+🏰 [Website](https://genesisproject.xyz/)
+<br>
+🔦 [Use the Mana Finder to search beyond OpenSea](https://app.genesisproject.xyz/claim)
+<br>
+☘️ [Build & Mint a GA](https://app.genesisproject.xyz/claim)
+<br>
+📍 [Roadmap](https://genesisproject.xyz/roadmap)
 
 ## Notes for V2 Upgrade
 * `Lost Food` typo has been corrected to `Lost Foot` (whoops)
